@@ -4,20 +4,38 @@ I'm an M.S. student in Computer Science and Engineering at the University of Cal
 
 My research interests include **Large Language Models, AI Agents, Machine Learning, and Model Evaluation**.
 
-## 🔬 Research & Projects
+## 🎓 Education
 
-### SciToolHub
-Building an automated and reproducible pipeline for scientific tool discovery, metadata enrichment, execution, and evaluation across large-scale GitHub repositories.
+- **University of California, San Diego** — M.S. in Computer Science and Engineering
+- **University of Wisconsin–Madison** — B.S. in Computer Sciences, Mathematics, and Data Science
 
-### Mind2Dialogue
-Researching human-aware language models through simulated user mental states, with a focus on personalization and Theory-of-Mind reasoning.
-https://github.com/wannabeyourfriend/mind2dialogue/tree/main
+## 🔬 Research & Selected Projects
+
+### [SciToolHub](https://github.com/kevinwooMad/scitoolhub)
+An automated and reproducible pipeline for scientific tool discovery, metadata enrichment, execution, and evaluation.
+
+- Standardized metadata for **900+ scientific GitHub repositories**
+- Developed automated execution and evaluation workflows
+- Built ranking signals based on CI status, documentation quality, execution success rate, latency, and repository activity
+
+### [Mind2Dialogue](https://github.com/wannabeyourfriend/mind2dialogue)
+Research on human-aware language models through simulated user mental states, with a focus on **personalization** and **Theory-of-Mind reasoning**.
+
+- Contributed to the development and evaluation of a shared latent user-state framework
+- Evaluated personalization and Theory-of-Mind generalization across dialogue benchmarks
 
 ### Manticore
-Exploring pretrained hybrid architectures that combine components such as Mamba and Pythia through learned representation mixing and neural architecture search.
+Research on pretrained hybrid architectures combining components such as **Mamba and Pythia** through learned representation mixing and neural architecture search.
+
+- Contributed to model search and retraining experiments
+- Evaluated hybrid configurations across multiple random seeds and datasets
 
 ### Multimodal Antibiotic Activity Prediction
-Developed machine learning pipelines using protein and compound features for antibiotic activity prediction, including feature selection, dimensionality reduction, and multi-seed evaluation.
+Developed machine learning pipelines combining **protein and compound features** for antibiotic activity prediction.
+
+- Applied Random Forest, SVM, and MLP models to high-dimensional multimodal data
+- Used Lasso, PCA, and tree-based feature ranking for dimensionality reduction
+- Conducted multi-seed experiments and cross-validation for robust evaluation
 
 ## 📚 Publications
 
@@ -26,10 +44,10 @@ Developed machine learning pipelines using protein and compound features for ant
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, Java，SQL
-- **ML/DL:** PyTorch, scikit-learn, NumPy，pandas
-- **Areas:** LLMs, AI Agents, Machine Learning, NLP, Model Evaluation, Data Science
+- **Languages:** Python, Java, SQL
+- **ML/DL:** PyTorch, scikit-learn, NumPy, pandas
+- **Research Areas:** LLMs, AI Agents, NLP, Machine Learning, Model Evaluation
 
-## 📫 Links
+## 📫 Contact
 
 - GitHub: [kevinwooMad](https://github.com/kevinwooMad)
