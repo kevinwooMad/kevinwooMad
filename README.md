@@ -39,8 +39,8 @@ Developed machine learning pipelines combining **protein and compound features**
 
 ## 📚 Publications
 
-- [**Pretrained Hybrids with MAD Skills**](PUBLIC_LINK) — COLM 2025
-- [**Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States**](PUBLIC_LINK) — NeurIPS 2026 UserSim Workshop
+- **Pretrained Hybrids with MAD Skills** — COLM 2025
+- **Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States** — NeurIPS 2026 UserSim Workshop
 
 ## 🛠️ Technical Skills
 
