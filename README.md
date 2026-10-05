@@ -11,6 +11,7 @@ Building an automated and reproducible pipeline for scientific tool discovery, m
 
 ### Mind2Dialogue
 Researching human-aware language models through simulated user mental states, with a focus on personalization and Theory-of-Mind reasoning.
+https://github.com/wannabeyourfriend/mind2dialogue/tree/main
 
 ### Manticore
 Exploring pretrained hybrid architectures that combine components such as Mamba and Pythia through learned representation mixing and neural architecture search.
